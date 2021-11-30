@@ -1,0 +1,7 @@
+[user]
+	name = Peerasak Unsakon
+	email = 582587+clonezer@users.noreply.github.com
+[core]
+	excludesfile = /Users/peerasak/.gitignore_global
+[commit]
+	template = /Users/peerasak/.stCommitMsg
