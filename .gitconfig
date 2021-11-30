@@ -3,5 +3,6 @@
 	email = 582587+clonezer@users.noreply.github.com
 [core]
 	excludesfile = /Users/peerasak/.gitignore_global
+	editor = nvim
 [commit]
 	template = /Users/peerasak/.stCommitMsg
